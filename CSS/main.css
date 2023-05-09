@@ -700,12 +700,20 @@ video {
     margin-right: 1rem;
   }
 
+  .md\:mr-6 {
+    margin-right: 1.5rem;
+  }
+
   .md\:inline-block {
     display: inline-block;
   }
 
   .md\:hidden {
     display: none;
+  }
+
+  .md\:items-end {
+    align-items: flex-end;
   }
 
   .md\:border-b-2 {
