@@ -16,7 +16,8 @@ module.exports = {
       'grayish-blue': 'hsl(220, 14%, 75%)',
       'light-grayish-blue': 'hsl(223, 64%, 98%)',
       'black': 'hsl(0, 0%, 0%)',
-      'white': 'hsl(0, 0%, 100%)'
+      'white': 'hsl(0, 0%, 100%)',
+      'slate': ' rgb(203 213 225)'
     },
     fontFamily: {
       'sans-serif': ['Kumbh Sans'],
@@ -26,6 +27,7 @@ module.exports = {
       bold: '700'
     },
     fontSize: {
+      xxm: '0.625rem',
       sm: '0.8rem',
       base: '1rem',
       xl: '2rem',
