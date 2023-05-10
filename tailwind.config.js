@@ -17,7 +17,7 @@ module.exports = {
       'light-grayish-blue': 'hsl(223, 64%, 98%)',
       'black': 'hsl(0, 0%, 0%)',
       'white': 'hsl(0, 0%, 100%)',
-      'slate': ' rgb(203 213 225)'
+      'slate': ' rgb(226 232 240)'
     },
     fontFamily: {
       'sans-serif': ['Kumbh Sans'],
@@ -30,6 +30,7 @@ module.exports = {
       xxm: '0.625rem',
       sm: '0.8rem',
       base: '1rem',
+      lg: '1.7rem',
       xl: '2rem',
     },
   },

@@ -8,7 +8,7 @@ const addToCart = document.getElementById('addToCart');
 
 let count = 0;
 plus.addEventListener('click', function () {
-  if (count < 50) {
+  if (count < 10) {
     count++;
     items.innerText = count;
   }
