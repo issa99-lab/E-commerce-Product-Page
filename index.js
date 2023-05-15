@@ -21,3 +21,9 @@ minus.addEventListener('click', function () {
     items.innerText = count;
   }
 });
+
+
+// HEY.. WAKE UP
+// YOU CAN DO THIS :)
+
+
