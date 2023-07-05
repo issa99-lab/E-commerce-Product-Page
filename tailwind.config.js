@@ -2,7 +2,11 @@
 module.exports = {
   content: ['./*.html'],
   theme: {
-    extend: {},
+    extend: {
+      zIndex: {
+        '10': '10',
+      }
+    },
     screens: {
       'sm': '640px',
       'md': '768px',
